@@ -1,0 +1,25 @@
+
+.cardbtncon{
+    text-align: center;
+    padding: 50px;
+}
+#next-btn{
+    margin-left: 20px;
+}
+#prev-btn:hover{
+    background-color: rgb(102, 167, 233);
+}
+#next-btn:hover{
+    background-color: rgb(102, 167, 233);
+}
+
+.card1{
+    height: 300px;
+}
+.card1 img{
+    height: 150px;
+}
+.card-body{
+    height: 160px;
+    width: 170px;
+}
